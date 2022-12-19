@@ -1,0 +1,15 @@
+wall 153 10 296 10 - top 
+wall 542 10 296 10 - top
+wall 153 690 296 10 - bottom 
+wall 542 690 296 10 - bottom 
+wall 10 350 10 690 - left
+wall 690 350 10 690 - right 
+door E top true false 3.3 room - E
+door F bottom true false 4.1 page - F
+ing potato 550 520
+item sidetable 75 180
+item plant 75 180
+item sofa 75 350
+item plant 625 75
+item plant 550 75
+item sidetable 550 550

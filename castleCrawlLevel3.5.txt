@@ -1,0 +1,14 @@
+wall 153 10 296 10 - top 
+wall 542 10 296 10 - top
+wall 350 690 690 10 - bottom 
+wall 10 350 10 690 - left
+wall 690 350 10 690 - right 
+door D top true false 3.2 room - D
+key F 100 350 - F
+item bathtub 350 350
+item plant 450 400
+item plant 410 460
+item toilet 650 600
+item sink 650 500
+item plant 50 100
+item plant 100 50

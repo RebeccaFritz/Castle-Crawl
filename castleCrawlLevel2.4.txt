@@ -1,0 +1,20 @@
+wall 10 153 10 296 - left
+wall 10 542 10 296 - left
+wall 690 350 10 690 - right
+wall 350 10 690 10 - top
+wall 153 690 296 10 - bottom
+wall 542 690 296 10 - bottom
+door C left false false 2.3 room - C
+door D bottom true false 3.1 page - D
+ing orangepotion 650 50
+item plant 209 83
+item plant 366 45
+item plant 415 151
+item plant 306 134
+item plant 655 492
+item plant 567 508
+item plant 558 284
+item plant 187 654
+item plant 590 657
+item plant 551 130
+item fountain 350 350

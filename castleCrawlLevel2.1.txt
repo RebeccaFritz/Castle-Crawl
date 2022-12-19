@@ -1,0 +1,14 @@
+wall 350 10 690 10 - top
+wall 10 350 10 690 - left
+wall 153 690 296 10 - bottom 
+wall 542 690 296 10 - bottom 
+wall 690 153 10 296 - right
+wall 690 542 10 296 - right
+door A bottom true false 2.3 room - A
+door B right true false 2.2 room - B
+key A 50 600 - A
+item sidetable 75 180
+item plant 75 180
+item sofa 75 350
+item plant 625 75
+item plant 550 75

@@ -1,0 +1,21 @@
+wall 350 10 680 10 - top
+wall 690 350 10 690 - right
+wall 10 153 10 296 - left
+wall 10 542 10 296 - left
+wall 153 690 296 10 - bottom
+wall 542 690 296 10 - bottom
+door A left false false 1.1 room - A
+door B bottom true false 2.1 page - B
+key B 250 400 - B
+ing blueapple 560 280
+item rightchair 90 350
+item downchair 200 240
+item downchair 300 240
+item downchair 400 240
+item downchair 500 240
+item leftchair 610 350
+item upchair 200 460
+item upchair 300 460
+item upchair 400 460
+item upchair 500 460
+item diningtable 350 350

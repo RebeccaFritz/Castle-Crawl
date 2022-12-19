@@ -1,0 +1,20 @@
+wall 10 350 10 690 - left
+wall 350 690 690 10 - bottom
+wall 153 10 296 10 - top
+wall 542 10 296 10 - top
+wall 690 153 10 296 - right
+wall 690 542 10 296 - right
+door A top false false 2.1 room - A
+door C right true false 2.4 room - C
+key B 650 650 - B
+item rightchair 90 350
+item downchair 200 240
+item downchair 300 240
+item downchair 400 240
+item downchair 500 240
+item leftchair 610 350
+item upchair 200 460
+item upchair 300 460
+item upchair 400 460
+item upchair 500 460
+item diningtable 350 350

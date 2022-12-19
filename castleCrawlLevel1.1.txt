@@ -1,0 +1,10 @@
+wall 350 10 680 10 
+wall 350 690 690 10 
+wall 10 350 10 690 
+wall 690 153 10 296 
+wall 690 542 10 296 
+door A right true false 1.2 room - A
+key A 200 350 - A
+item plant 100 50
+item plant 50 100
+item sidetable 200 350
